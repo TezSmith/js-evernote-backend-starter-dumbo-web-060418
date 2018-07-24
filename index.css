@@ -1,0 +1,12 @@
+#notes {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.toggle-content {
+	display: hidden;
+}
+
+.toggle-content.is-visible {
+	display: block;
+}
